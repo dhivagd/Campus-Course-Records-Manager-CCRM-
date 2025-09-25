@@ -295,7 +295,7 @@ The Campus Course & Records Manager represents a significant step toward digital
 The system successfully demonstrates the practical application of Java programming concepts while addressing real-world challenges in academic record management, making it both an educational tool and a functional solution for institutional needs.
 
 ---
-**Developed by:** [Your Name/Team Name]  
+**Developed by:** Dhivagar Pakkirisamy
 **Institution:** VIT Bhopal University  
-**Academic Year:** 2024-2025  
+**Academic Year:** 2023-2027  
 **Version:** 1.0
