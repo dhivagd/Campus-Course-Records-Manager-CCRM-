@@ -1,0 +1,4 @@
+student_id,enrollment_no,full_name,email,department,semester,status
+STU001,23BCY10001,dhivagar,dhiva@vitbhopal.ac.in,CSE,1,ACTIVE
+STU002,23BCY10002,Sai,jane.sai@vitbhopal.ac.in,ECE,1,ACTIVE
+STU003,23BCY10003,Manoj,Manoj@vitbhopal.ac.in,MECH,2,ACTIVE

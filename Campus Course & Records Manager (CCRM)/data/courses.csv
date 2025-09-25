@@ -1,0 +1,4 @@
+course_code,title,credits,instructor,department,term,max_seats
+CSE101,Programming Fundamentals,4,Dr. Sukumar,CSE,WINTER_TERM,60
+MAT201,Advanced Mathematics,3,Dr. Ferroz Babu,MATH,SUMMER_TERM,40
+DSA301,Data Structures,4,Prof. M Suresh,CSE,FALL_TERM,50
